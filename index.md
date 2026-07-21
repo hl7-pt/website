@@ -5,13 +5,70 @@ title: Intro
 
 <section class="container hero">
   <h1>HL7 Portugal</h1>
-  <p>Comunidade para promover interoperabilidade em saúde, com foco em standards HL7 e implementação prática.</p>
+  <p>Apoiar a comunidade HL7 em prol da saúde.</p>
   <div class="carousel" aria-label="Destaques de inscrição e vantagens">
     {% for item in site.data.carousel %}
       <article class="carousel-slide{% if forloop.first %} active{% endif %}">
         <h2>{{ item.titulo }}</h2>
         <p>{{ item.texto }}</p>
         <a class="btn" href="{{ item.cta_link | relative_url }}">{{ item.cta_texto }}</a>
+      </article>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="container" style="margin-top: 2rem;">
+  <div class="cta-grid">
+    <article class="card">
+      <h2>Subscreva a newsletter</h2>
+      <p>Receba notícias, webinars, eventos e publicações de interoperabilidade diretamente no seu email.</p>
+      <a class="btn" href="#" aria-label="Subscrever newsletter HL7 Portugal">Subscrever newsletter</a>
+    </article>
+    <article class="card">
+      <h2>Entrar no grupo WhatsApp</h2>
+      <p>Junte-se ao grupo da comunidade para acompanhar novidades, formação e discussões técnicas.</p>
+      <a class="btn" href="#" aria-label="Entrar no grupo WhatsApp HL7 Portugal">Entrar no WhatsApp</a>
+    </article>
+  </div>
+</section>
+
+<section class="container" style="margin-top: 2rem;">
+  <h2>O que fazemos</h2>
+  <div class="card-grid card-grid-4">
+    <article class="card">
+      <h3>Informação</h3>
+      <p>Disponibilizar informação acerca do HL7 de forma acessível e inteligível para a comunidade.</p>
+    </article>
+    <article class="card">
+      <h3>Promoção</h3>
+      <p>Participação em eventos, palestras e workshops para promoção da norma HL7.</p>
+    </article>
+    <article class="card">
+      <h3>Formação</h3>
+      <p>Promover e apoiar a realização de cursos, sessões e workshops de formação.</p>
+    </article>
+    <article class="card">
+      <h3>Webinars</h3>
+      <p>Eventos periódicos com temáticas relevantes para toda a comunidade.</p>
+    </article>
+  </div>
+</section>
+
+<section class="container" style="margin-top: 2rem;">
+  <h2>Entidades associadas que trabalham connosco</h2>
+  <p class="muted">Coloque os logotipos na pasta <strong>assets/images/socios/</strong> e ajuste a lista em <strong>_data/socios.yml</strong>.</p>
+  <div class="logo-grid" aria-label="Logotipos de sócios">
+    {% for socio in site.data.socios %}
+      <article class="logo-card">
+        {% assign logo_path = '/assets/images/socios/' | append: socio.ficheiro %}
+        {% if socio.site %}
+          <a href="{{ socio.site }}" target="_blank" rel="noopener noreferrer" aria-label="{{ socio.nome }}">
+            <img class="logo-image" src="{{ logo_path | relative_url }}" alt="Logotipo {{ socio.nome }}" loading="lazy" onerror="this.src='{{ '/assets/images/member-placeholder.svg' | relative_url }}'; this.classList.add('logo-fallback');">
+          </a>
+        {% else %}
+          <img class="logo-image" src="{{ logo_path | relative_url }}" alt="Logotipo {{ socio.nome }}" loading="lazy" onerror="this.src='{{ '/assets/images/member-placeholder.svg' | relative_url }}'; this.classList.add('logo-fallback');">
+        {% endif %}
+        <p>{{ socio.nome }}</p>
       </article>
     {% endfor %}
   </div>

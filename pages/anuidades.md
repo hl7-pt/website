@@ -2,30 +2,28 @@
 layout: page
 title: Anuidades
 permalink: /pages/anuidades/
-intro: Valores de anuidades por categoria de sócio.
+intro: Valores de quota anual por tipo de participação na associação.
 ---
 
 <div class="table-wrap">
   <table data-sortable="true" aria-label="Tabela de anuidades">
     <thead>
       <tr>
-        <th data-sort="text">Categoria</th>
-        <th data-sort="number">Valor anual (EUR)</th>
-        <th data-sort="text">Período</th>
-        <th data-sort="text">Observações</th>
+        <th data-sort="text">Tipo</th>
+        <th data-sort="number">Votos</th>
+        <th data-sort="number">Quota anual (EUR)</th>
       </tr>
     </thead>
     <tbody>
       {% for row in site.data.anuidades %}
         <tr>
-          <td>{{ row.categoria }}</td>
-          <td>{{ row.valor_anual }}</td>
-          <td>{{ row.periodo }}</td>
-          <td>{{ row.observacoes }}</td>
+          <td>{{ row.tipo }}</td>
+          <td>{{ row.votos }}</td>
+          <td>{{ row.quota_anual }}€</td>
         </tr>
       {% endfor %}
     </tbody>
   </table>
 </div>
 
-<p class="muted">Valores alinhados com a grelha de anuidades da página antiga.</p>
+<p>Quem quiser inscrever-se como sócio deve seguir este <a href="#" aria-label="Link de inscrição de sócio">link de inscrição</a>. O URL final será atualizado assim que estiver disponível.</p>

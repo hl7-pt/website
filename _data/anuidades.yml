@@ -1,20 +1,30 @@
-- categoria: Sócio individual
-  valor_anual: 80
-  periodo: Anual
-  observacoes: Acesso a eventos e recursos base
-- categoria: Sócio estudante
-  valor_anual: 15
-  periodo: Anual
-  observacoes: Requer comprovativo de inscrição
-- categoria: Empresa (faturação anual sem IVA inferior a 1M€)
-  valor_anual: 600
-  periodo: Anual
-  observacoes: Escalão empresarial
-- categoria: Empresa (faturação anual sem IVA entre 1M€ e 5M€)
-  valor_anual: 1100
-  periodo: Anual
-  observacoes: Escalão empresarial
-- categoria: Empresa (faturação anual sem IVA superior a 5M€)
-  valor_anual: 3000
-  periodo: Anual
-  observacoes: Escalão empresarial
+- tipo: Independente
+  votos: 1
+  quota_anual: 80
+- tipo: Estudante
+  votos: 1
+  quota_anual: 15
+- tipo: Empresa (volume anual de faturação sem IVA inferior a 1M€)
+  votos: 2
+  quota_anual: 600
+- tipo: Empresa (volume anual de faturação sem IVA entre 1M€ e 5M€)
+  votos: 4
+  quota_anual: 1100
+- tipo: Empresa (volume anual de faturação sem IVA superior a 5M€)
+  votos: 6
+  quota_anual: 3000
+- tipo: Instituição de caráter público (Entidade de âmbito local)
+  votos: 2
+  quota_anual: 600
+- tipo: Instituição de caráter público (Entidade pública de âmbito regional)
+  votos: 4
+  quota_anual: 1100
+- tipo: Instituição de caráter público (Entidade pública de âmbito nacional)
+  votos: 6
+  quota_anual: 3000
+- tipo: Instituição de ensino
+  votos: 2
+  quota_anual: 600
+- tipo: Instituição de ensino a desenvolver trabalhos académicos propostos pelo HL7 Portugal
+  votos: 2
+  quota_anual: 250

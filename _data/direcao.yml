@@ -1,26 +1,84 @@
-atual:
-  mandato: 2025-2027
-  membros:
-    - nome: Ana Martins
+nova:
+  titulo: Direção nova
+  origem: Conteúdo migrado de "O que fazemos"
+  direcao:
+    - nome: João Almeida
       cargo: Presidente
-      linkedin: https://www.linkedin.com/in/ana-martins-hl7
+      linkedin: ""
       foto: /assets/images/member-placeholder.svg
-    - nome: Rui Carvalho
-      cargo: Vice-presidente
-      linkedin: https://www.linkedin.com/in/rui-carvalho-hl7
+    - nome: Joana Cunha
+      cargo: Vice-Presidente
+      linkedin: ""
       foto: /assets/images/member-placeholder.svg
-    - nome: Sofia Teixeira
+    - nome: Vitor Costa
+      cargo: Tesoureiro
+      linkedin: ""
+      foto: /assets/images/member-placeholder.svg
+    - nome: Sara Caçador
+      cargo: Secretário
+      linkedin: ""
+      foto: /assets/images/member-placeholder.svg
+    - nome: João Magalhães
       cargo: Vogal
-      linkedin: https://www.linkedin.com/in/sofia-teixeira-hl7
+      linkedin: ""
       foto: /assets/images/member-placeholder.svg
-anteriores:
-  - mandato: 2022-2024
-    membros:
-      - nome: Miguel Nunes
-        cargo: Presidente
-        linkedin: https://www.linkedin.com/in/miguel-nunes-hl7
-        foto: /assets/images/member-placeholder.svg
-      - nome: Carla Reis
-        cargo: Vogal
-        linkedin: https://www.linkedin.com/in/carla-reis-hl7
-        foto: /assets/images/member-placeholder.svg
+  conselho_fiscal:
+    - nome: António Martins
+      cargo: Presidente
+      linkedin: ""
+      foto: /assets/images/member-placeholder.svg
+    - nome: Carlos Sousa
+      cargo: Vogal
+      linkedin: ""
+      foto: /assets/images/member-placeholder.svg
+    - nome: Bruno Moniz
+      cargo: Vogal
+      linkedin: ""
+      foto: /assets/images/member-placeholder.svg
+  mesa_assembleia_geral:
+    - nome: Tiago Costa
+      cargo: Presidente
+      linkedin: ""
+      foto: /assets/images/member-placeholder.svg
+    - nome: André Mota
+      cargo: Vice-Presidente
+      linkedin: ""
+      foto: /assets/images/member-placeholder.svg
+    - nome: Ricardo Correia
+      cargo: Secretário
+      linkedin: ""
+      foto: /assets/images/member-placeholder.svg
+
+antiga:
+  titulo: Direção antiga
+  origem: Conteúdo migrado de "O que fazemos" (a validar)
+  membros:
+    - nome: Tiago Costa
+      cargo: Presidente
+      linkedin: ""
+      foto: /assets/images/member-placeholder.svg
+    - nome: André Mota
+      cargo: Vice-Presidente
+      linkedin: ""
+      foto: /assets/images/member-placeholder.svg
+    - nome: Ricardo Correia
+      cargo: Secretário
+      linkedin: ""
+      foto: /assets/images/member-placeholder.svg
+
+sample_menor:
+  titulo: Sample menor da direção
+  origem: Versão resumida para teste
+  membros:
+    - nome: João Almeida
+      cargo: Presidente
+      linkedin: ""
+      foto: /assets/images/member-placeholder.svg
+    - nome: Joana Cunha
+      cargo: Vice-Presidente
+      linkedin: ""
+      foto: /assets/images/member-placeholder.svg
+    - nome: Vitor Costa
+      cargo: Tesoureiro
+      linkedin: ""
+      foto: /assets/images/member-placeholder.svg

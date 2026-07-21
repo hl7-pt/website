@@ -1,0 +1,18 @@
+{% assign history = include.revisions %}
+{% if history and history.size > 0 %}
+<section class="post-history" aria-labelledby="historico-titulo">
+    <h2 id="historico-titulo">Historico de revisoes</h2>
+    <ol>
+        {% for item in history %}
+        <li>
+            <strong>Versao {{ item.version }}</strong>
+            <span>{{ item.date | date: '%d-%m-%Y' }}</span>
+            <p>{{ item.summary }}</p>
+            {% if item.editor %}
+            <p class="muted">Editor: {{ item.editor }}</p>
+            {% endif %}
+        </li>
+        {% endfor %}
+    </ol>
+</section>
+{% endif %}

@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<article class="container post-article">
+    <header class="post-header">
+        <h1>{{ page.title }}</h1>
+        <div class="post-meta">
+            <span>Publicado em {{ page.date | date: '%d-%m-%Y' }}</span>
+            {% if page.last_modified_at %}
+            <span>Atualizado em {{ page.last_modified_at | date: '%d-%m-%Y' }}</span>
+            {% endif %}
+            {% if page.author %}
+            <span>Por {{ page.author }}</span>
+            {% endif %}
+        </div>
+        {% if page.tags %}
+        <ul class="tag-list">
+            {% for tag in page.tags %}
+            <li>{{ tag }}</li>
+            {% endfor %}
+        </ul>
+        {% endif %}
+    </header>
+
+    <section class="post-content">
+        {{ content }}
+    </section>
+
+    {% include post-history.html revisions=page.revisions %}
+</article>

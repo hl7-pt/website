@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% seo %}
+    <link rel="preload" href="{{ '/assets/css/main.css' | relative_url }}" as="style">
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+    <script defer src="{{ '/assets/js/main.js' | relative_url }}"></script>
+    <script defer src="{{ '/assets/js/tables.js' | relative_url }}"></script>
+</head>
+
+<body>
+    <a class="skip-link" href="#conteudo">Saltar para conteudo principal</a>
+    {% include nav.html %}
+    <main id="conteudo" class="site-main">
+        {{ content }}
+    </main>
+    {% include footer.html %}
+</body>
+
+</html>

@@ -1,0 +1,30 @@
+<header class="site-header">
+    <div class="container header-inner">
+        <a class="brand" href="{{ '/' | relative_url }}">HL7 Portugal</a>
+        <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="menu-principal">Menu</button>
+        <nav id="menu-principal" class="site-nav" aria-label="Principal">
+            <ul>
+                <li><a href="{{ '/' | relative_url }}">Intro</a></li>
+                <li><a href="{{ '/pages/anuidades/' | relative_url }}">Anuidades</a></li>
+                <li><a href="{{ '/pages/direcao/' | relative_url }}">Direcao</a></li>
+                <li><a href="{{ '/pages/vantagens-testemunhos/' | relative_url }}">Vantagens</a></li>
+                <li><a href="{{ '/pages/noticias/' | relative_url }}">Noticias</a></li>
+                <li><a href="{{ '/pages/formacao/' | relative_url }}">Formacao</a></li>
+                <li class="has-submenu">
+                    <a href="{{ '/pages/recursos/' | relative_url }}">Recursos</a>
+                    <ul class="submenu">
+                        <li><a href="{{ '/pages/recursos/apresentacoes/' | relative_url }}">Apresentacoes</a></li>
+                        <li><a href="{{ '/pages/recursos/especificacoes-tecnicas/' | relative_url }}">Especificacoes
+                                tecnicas</a></li>
+                        <li><a href="{{ '/pages/recursos/ferramentas/' | relative_url }}">Ferramentas</a></li>
+                        <li><a href="{{ '/pages/recursos/oid/' | relative_url }}">OID</a></li>
+                        <li><a
+                                href="{{ '/pages/recursos/publicacoes-interoperabilidade/' | relative_url }}">Publicacoes</a>
+                        </li>
+                    </ul>
+                </li>
+                <li><a href="{{ '/pages/associacao/' | relative_url }}">Associacao</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>

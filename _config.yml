@@ -1,0 +1,41 @@
+title: HL7 Portugal
+email: geral@hl7.pt
+description: Site institucional da associacao HL7 Portugal
+baseurl: ""
+url: ""
+lang: pt-PT
+timezone: Europe/Lisbon
+
+markdown: kramdown
+highlighter: rouge
+permalink: /noticias/:title/
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+collections:
+  recursos:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+  - scope:
+      path: ""
+    values:
+      layout: page
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor

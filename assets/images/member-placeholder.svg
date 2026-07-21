@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img"
+    aria-labelledby="title desc">
+    <title id="title">Fotografia em falta</title>
+    <desc id="desc">Imagem de placeholder para membro da direcao</desc>
+    <rect width="240" height="240" fill="#f8f8f8" />
+    <circle cx="120" cy="92" r="44" fill="#e4e4e4" />
+    <rect x="52" y="150" width="136" height="66" rx="14" fill="#e4e4e4" />
+    <rect x="20" y="20" width="200" height="200" rx="20" fill="none" stroke="#c8102e"
+        stroke-width="6" />
+</svg>

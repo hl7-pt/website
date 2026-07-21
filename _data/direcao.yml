@@ -1,0 +1,26 @@
+atual:
+  mandato: 2025-2027
+  membros:
+    - nome: Ana Martins
+      cargo: Presidente
+      linkedin: https://www.linkedin.com/in/ana-martins-hl7
+      foto: /assets/images/member-placeholder.svg
+    - nome: Rui Carvalho
+      cargo: Vice-presidente
+      linkedin: https://www.linkedin.com/in/rui-carvalho-hl7
+      foto: /assets/images/member-placeholder.svg
+    - nome: Sofia Teixeira
+      cargo: Vogal
+      linkedin: https://www.linkedin.com/in/sofia-teixeira-hl7
+      foto: /assets/images/member-placeholder.svg
+anteriores:
+  - mandato: 2022-2024
+    membros:
+      - nome: Miguel Nunes
+        cargo: Presidente
+        linkedin: https://www.linkedin.com/in/miguel-nunes-hl7
+        foto: /assets/images/member-placeholder.svg
+      - nome: Carla Reis
+        cargo: Vogal
+        linkedin: https://www.linkedin.com/in/carla-reis-hl7
+        foto: /assets/images/member-placeholder.svg

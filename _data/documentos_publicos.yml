@@ -1,0 +1,108 @@
+secoes:
+  - titulo: Relatórios de Atividades e Contas
+    descricao: Relatórios públicos anuais da associação.
+    documentos:
+      - titulo: Relatório de Atividades e Contas 2022
+        data: 2023-02-01
+        tipo: Relatório
+        link: https://www.hl7.pt/wp-content/uploads/2023/02/HL7PT_RAC_2022_vf2.pdf
+      - titulo: Relatório de Atividades e Contas 2021
+        data: 2022-03-01
+        tipo: Relatório
+        link: https://www.hl7.pt/wp-content/uploads/2022/03/HL7PT_RAC_2021_vf.pdf
+      - titulo: Relatório de Atividades e Contas 2020
+        data: 2021-11-01
+        tipo: Relatório
+        link: https://www.hl7.pt/wp-content/uploads/2021/11/HL7PT_RAC_2020_vf.pdf
+      - titulo: Relatório de Atividades e Contas 2019
+        data: 2021-11-01
+        tipo: Relatório
+        link: https://www.hl7.pt/wp-content/uploads/2021/11/HL7PT_RAC_2019_v1.pdf
+      - titulo: Relatório de Atividades e Contas 2018
+        data: 2021-11-01
+        tipo: Relatório
+        link: https://www.hl7.pt/wp-content/uploads/2021/11/HL7PT_RAC_2018_v1.pdf
+      - titulo: Relatório de Atividades e Contas 2017
+        data: 2021-11-01
+        tipo: Relatório
+        link: https://www.hl7.pt/wp-content/uploads/2021/11/HL7PT_RAC_2017_vf.pdf
+
+  - titulo: Assembleia Geral
+    descricao: Convocatórias e atas públicas de assembleias gerais.
+    documentos:
+      - titulo: AG 11 - Convocatória
+        data: 2024-03-14
+        tipo: Convocatória
+        link: https://www.hl7.pt/wp-content/uploads/2024/12/AG-11-20240314-convocatoria_signed.pdf
+      - titulo: AG 10 - Convocatória
+        data: 2023-03-09
+        tipo: Convocatória
+        link: https://www.hl7.pt/wp-content/uploads/2023/02/AG-10-20230309-convocatoria.pdf
+      - titulo: AG 10 - Ata
+        data: 2023-06-01
+        tipo: Ata
+        link: https://www.hl7.pt/wp-content/uploads/2023/06/AG-10-20230309-ata-v2_signed_signed.pdf
+      - titulo: AG 9 - Convocatória
+        data: 2023-02-09
+        tipo: Convocatória
+        link: https://www.hl7.pt/wp-content/uploads/2023/02/AG-9-20230209-convocatoria-1.pdf
+      - titulo: AG 9 - Ata
+        data: 2023-02-09
+        tipo: Ata
+        link: https://www.hl7.pt/wp-content/uploads/2023/02/AG-9-20230209-ata.pdf
+
+  - titulo: Conselho Fiscal
+    descricao: Atas públicas de reuniões do conselho fiscal.
+    documentos:
+      - titulo: CF 13 - 2025-06-16
+        data: 2025-06-16
+        tipo: Ata
+        link: https://www.hl7.pt/wp-content/uploads/2025/06/CF-13-20250616.pdf
+      - titulo: CF 12 - 2024-12-16
+        data: 2024-12-16
+        tipo: Ata
+        link: https://www.hl7.pt/wp-content/uploads/2024/12/CF-12-20241216_signed3.pdf
+      - titulo: CF 11 - 2024-06-18
+        data: 2024-06-18
+        tipo: Ata
+        link: https://www.hl7.pt/wp-content/uploads/2024/12/CF-11-20240618_signed_signed.pdf
+      - titulo: CF 10 - 2023-12-18
+        data: 2023-12-18
+        tipo: Ata
+        link: https://www.hl7.pt/wp-content/uploads/2024/04/CF-10-20231218_signed3.pdf
+
+  - titulo: Documentos técnicos locais
+    descricao: Documentos colocados localmente na pasta assets/docs/publicos.
+    documentos:
+      - titulo: Comentário ET RSE HL7PT eMAIS
+        data: 2026-07-21
+        tipo: Documento Técnico
+        link: /assets/docs/publicos/Comentario_ET_RSE_HL7PT_eMAIS-1.pdf
+      - titulo: Parceria eMAIS HL7PT
+        data: 2026-07-21
+        tipo: Parceria
+        link: /assets/docs/publicos/Parceria_emais_hl7pt.pdf
+      - titulo: Comentário ET RSE HL7PT eMAIS parte 2
+        data: 2026-07-21
+        tipo: Documento Técnico
+        link: /assets/docs/publicos/comentario-ET-RSE_consulta-publica-2-1.pdf
+
+  - titulo: Recursos Técnicos e Institucionais
+    descricao: Documentos de referência e páginas com produção técnica da associação.
+    documentos:
+      - titulo: OID
+        data: 2026-07-21
+        tipo: Página
+        link: /pages/recursos/oid/
+      - titulo: Ferramentas
+        data: 2026-07-21
+        tipo: Página
+        link: /pages/recursos/ferramentas/
+      - titulo: Especificações técnicas
+        data: 2026-07-21
+        tipo: Página
+        link: /pages/recursos/especificacoes-tecnicas/
+      - titulo: Publicações de interoperabilidade
+        data: 2026-07-21
+        tipo: Página
+        link: /pages/recursos/publicacoes-interoperabilidade/

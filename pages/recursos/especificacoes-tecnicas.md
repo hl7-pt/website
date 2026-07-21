@@ -21,6 +21,30 @@ intro: Guias de implementação e processo de publicação técnica HL7 Portugal
       </thead>
       <tbody>
         <tr>
+          <td>Reações adversas e alergias</td>
+          <td><a href="https://github.com/hl7-pt/adr-ig" target="_blank" rel="noopener noreferrer">github.com/hl7-pt/adr-ig</a></td>
+          <td><a href="https://hl7-pt.github.io/adr-ig/" target="_blank" rel="noopener noreferrer">hl7-pt.github.io/adr-ig</a></td>
+          <td>Especificação para notificar alergias/intolerâncias e potenciais reações adversas a medicamentos</td>
+        </tr>
+        <tr>
+          <td>Notícia Nascimento</td>
+          <td><a href="https://github.com/hl7-pt/obs-neonat-ig" target="_blank" rel="noopener noreferrer">github.com/hl7-pt/obs-neonat-ig</a></td>
+          <td><a href="https://hl7-pt.github.io/obs-neonat-ig/" target="_blank" rel="noopener noreferrer">hl7-pt.github.io/obs-neonat-ig</a></td>
+          <td>Notificação de uma notícia de nascimento</td>
+        </tr>
+        <tr>
+          <td>Saúde Comunitária [P5]</td>
+          <td><a href="https://github.com/hl7-pt/community-health-ig" target="_blank" rel="noopener noreferrer">github.com/hl7-pt/community-health-ig</a></td>
+          <td><a href="https://hl7-pt.github.io/community-health-ig/" target="_blank" rel="noopener noreferrer">hl7-pt.github.io/community-health-ig</a></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Gestão de doenças respiratórias [FMUP]</td>
+          <td><a href="https://github.com/hl7-pt/resp-ig" target="_blank" rel="noopener noreferrer">github.com/hl7-pt/resp-ig</a></td>
+          <td><a href="https://hl7-pt.github.io/resp-ig/" target="_blank" rel="noopener noreferrer">hl7-pt.github.io/resp-ig</a></td>
+          <td></td>
+        </tr>
+        <tr>
           <td>Portuguese core</td>
           <td><a href="https://github.com/hl7-pt/core" target="_blank" rel="noopener noreferrer">github.com/hl7-pt/core</a></td>
           <td><a href="https://hl7-pt.github.io/core/" target="_blank" rel="noopener noreferrer">hl7-pt.github.io/core</a></td>
@@ -77,3 +101,4 @@ intro: Guias de implementação e processo de publicação técnica HL7 Portugal
     <li>Se aprovada, a especificação é publicada no repositório de publicações da HL7 Portugal.</li>
   </ol>
 </article>
+<img src="{{ 'assets/images/wf-fhir-process.png' | relative_url }}" alt="Descrição da imagem" loading="lazy">

@@ -6,6 +6,24 @@ intro: Ferramentas e ligações úteis para implementação e teste de standards
 ---
 
 <article class="card">
+  <h2>Ferramentas HL7 Portugal</h2>
+  <p><a href="https://version2.hl7.pt/" target="_blank" rel="noopener noreferrer">Site HL7</a></p>
+  <p>Fundada em 1987, a Health Level Seven International (HL7) é uma organização sem fins lucrativos, acreditada pela ANSI, que desenvolve standards para troca, integração, partilha e recuperação de informação eletrónica em saúde.</p>
+
+  <p><a href="https://fhir.hl7.pt" target="_blank" rel="noopener noreferrer">Site FHIR (production)</a></p>
+  <p>O FHIR (Fast Healthcare Interoperability Resources) combina elementos das versões HL7 v2, HL7 v3 e CDA com padrões web modernos e foco em facilidade de implementação.</p>
+
+  <p><a href="https://build.fhir.org/" target="_blank" rel="noopener noreferrer">Site FHIR (dev)</a></p>
+  <p>Build de integração e evolução contínua do FHIR (desenvolvimento).</p>
+
+  <p><a href="https://chat.fhir.org/login/" target="_blank" rel="noopener noreferrer">Chat FHIR (zulip)</a></p>
+  <p>Comunidade FHIR na plataforma open source Zulip.</p>
+
+  <p><a href="https://confluence.hl7.org/" target="_blank" rel="noopener noreferrer">Confluence HL7</a></p>
+  <p>Repositório documental sobre workgroups, projetos e atualizações do HL7 International.</p>
+</article>
+
+<article class="card">
   <h2>Links HL7</h2>
   <p><a href="https://www.hl7.org/" target="_blank" rel="noopener noreferrer">Site HL7</a></p>
   <p>Fundada em 1987, a Health Level Seven International (HL7) é uma organização sem fins lucrativos, acreditada pela ANSI, que desenvolve standards para troca, integração, partilha e recuperação de informação eletrónica em saúde.</p>

@@ -5,11 +5,17 @@
         <nav id="menu-principal" class="site-nav" aria-label="Principal">
             <ul>
                 <li><a href="{{ '/' | relative_url }}">Intro</a></li>
-                <li><a href="{{ '/pages/anuidades/' | relative_url }}">Anuidades</a></li>
-                <li><a href="{{ '/pages/direcao/' | relative_url }}">Direção</a></li>
-                <li><a href="{{ '/pages/vantagens-testemunhos/' | relative_url }}">Vantagens</a></li>
+                <li class="has-submenu">
+                    <a href="#">HL7 Portugal</a>
+                    <ul class="submenu">
+                        <li><a href="{{ '/pages/anuidades/' | relative_url }}">Anuidades</a></li>
+                        <li><a href="{{ '/pages/vantagens-testemunhos/' | relative_url }}">Vantagens</a></li>
+                        <li><a href="{{ '/pages/direcao/' | relative_url }}">Direção</a></li>
+                    </ul>
+                </li>
                 <li><a href="{{ '/pages/noticias/' | relative_url }}">Notícias</a></li>
                 <li><a href="{{ '/pages/formacao/' | relative_url }}">Formação</a></li>
+                <li><a href="{{ '/pages/documentos-publicos/' | relative_url }}">Documentos públicos</a></li>
                 <li class="has-submenu">
                     <a href="{{ '/pages/recursos/' | relative_url }}">Recursos</a>
                     <ul class="submenu">

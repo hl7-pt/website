@@ -276,6 +276,28 @@ th {
     margin-bottom: var(--space-3);
 }
 
+.post-hero-image-wrap {
+    margin: var(--space-3) 0 0;
+}
+
+.post-hero-image {
+    display: block;
+    width: 100%;
+    max-height: 440px;
+    object-fit: cover;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+}
+
+.post-list-thumb {
+    display: block;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    border-radius: var(--radius-sm);
+    margin-bottom: var(--space-3);
+}
+
 .muted {
     color: var(--color-muted);
 }

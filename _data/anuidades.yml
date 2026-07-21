@@ -1,12 +1,20 @@
-- categoria: Individual
-  valor_anual: 60
+- categoria: Sócio individual
+  valor_anual: 80
   periodo: Anual
   observacoes: Acesso a eventos e recursos base
-- categoria: Estudante
-  valor_anual: 25
+- categoria: Sócio estudante
+  valor_anual: 15
   periodo: Anual
-  observacoes: Requer comprovativo de inscricao
-- categoria: Institucional
-  valor_anual: 350
+  observacoes: Requer comprovativo de inscrição
+- categoria: Empresa (faturação anual sem IVA inferior a 1M€)
+  valor_anual: 600
   periodo: Anual
-  observacoes: Inclui 3 representantes
+  observacoes: Escalão empresarial
+- categoria: Empresa (faturação anual sem IVA entre 1M€ e 5M€)
+  valor_anual: 1100
+  periodo: Anual
+  observacoes: Escalão empresarial
+- categoria: Empresa (faturação anual sem IVA superior a 5M€)
+  valor_anual: 3000
+  periodo: Anual
+  observacoes: Escalão empresarial

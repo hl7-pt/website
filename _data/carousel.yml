@@ -1,12 +1,12 @@
-- titulo: Torna-te socio HL7 Portugal
+- titulo: Torna-te sócio HL7 Portugal
   texto: Participa em grupos de trabalho e acelera projetos de interoperabilidade.
-  cta_texto: Inscricao de socio
+  cta_texto: Inscrição de sócio
   cta_link: /pages/associacao/
 - titulo: Vantagens para membros
-  texto: Acesso prioritario a eventos, comunidade tecnica e recursos especializados.
+  texto: Acesso prioritário a eventos, comunidade técnica e recursos especializados.
   cta_texto: Ver vantagens
   cta_link: /pages/vantagens-testemunhos/
-- titulo: Formacao aplicada
-  texto: Oferta formativa orientada para implementacao de standards HL7.
-  cta_texto: Explorar formacao
+- titulo: Formação aplicada
+  texto: Oferta formativa orientada para implementação de standards HL7.
+  cta_texto: Explorar formação
   cta_link: /pages/formacao/

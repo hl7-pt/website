@@ -2,20 +2,20 @@
 title: Nova oferta formativa 2026
 date: 2026-07-15
 last_modified_at: 2026-07-20
-author: Coordenacao Formacao
-category: formacao
+author: Coordenação Formação
+category: formação
 tags:
-  - formacao
+  - formação
   - fhir
 revisions:
   - version: 1
     date: 2026-07-15
-    summary: Publicacao inicial da oferta
-    editor: Coordenacao Formacao
+    summary: Publicação inicial da oferta
+    editor: Coordenação Formação
   - version: 2
     date: 2026-07-20
-    summary: Atualizacao de calendario e carga horaria
-    editor: Coordenacao Formacao
+    summary: Atualização de calendário e carga horária
+    editor: Coordenação Formação
 ---
 
-A oferta formativa de 2026 inclui trilhos para iniciacao em HL7 e laboratorios de implementacao FHIR.
+A oferta formativa de 2026 inclui trilhos para iniciação em HL7 e laboratórios de implementação FHIR.

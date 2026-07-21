@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Apresentacoes
+title: Apresentações
 permalink: /pages/recursos/apresentacoes/
-intro: Colecao de apresentacoes da associacao.
+intro: Coleção de apresentações da associação.
 ---
 
 <ul>
-  <li>Workshop FHIR Portugal 2026 - sessao de abertura.</li>
-  <li>Implementacao de perfis clinicos em ambientes hospitalares.</li>
-  <li>Boas praticas de interoperabilidade semantica.</li>
+  <li>Workshop FHIR Portugal 2026 - sessão de abertura.</li>
+  <li>Implementação de perfis clínicos em ambientes hospitalares.</li>
+  <li>Boas práticas de interoperabilidade semântica.</li>
 </ul>

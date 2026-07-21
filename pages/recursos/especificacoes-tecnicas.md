@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Especificacoes Tecnicas
+title: Especificações Técnicas
 permalink: /pages/recursos/especificacoes-tecnicas/
-intro: Referencias tecnicas para implementacao.
+intro: Referências técnicas para implementação.
 ---
 
 <ul>
   <li>Guia de conformidade de perfis HL7.</li>
-  <li>Notas tecnicas para interoperabilidade nacional.</li>
-  <li>Modelos de intercambio e validacao.</li>
+  <li>Notas técnicas para interoperabilidade nacional.</li>
+  <li>Modelos de intercâmbio e validação.</li>
 </ul>

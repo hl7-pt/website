@@ -21,7 +21,7 @@ intro: Identificadores OID relevantes para interoperabilidade.
         <td>HL7 Portugal</td>
       </tr>
       <tr>
-        <td>Exemplo identificador institucional</td>
+        <td>Exemplo de identificador institucional</td>
         <td>2.16.620.1.113883.3.5678</td>
         <td>Entidade membro</td>
       </tr>

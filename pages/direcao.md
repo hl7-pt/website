@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Direcao
+title: Direção
 permalink: /pages/direcao/
-intro: Direcao atual e mandatos anteriores.
+intro: Direção atual e mandatos anteriores.
 ---
 
 <section>
-  <h2>Direcao atual ({{ site.data.direcao.atual.mandato }})</h2>
+  <h2>Direção atual ({{ site.data.direcao.atual.mandato }})</h2>
   <div class="member-grid">
     {% for membro in site.data.direcao.atual.membros %}
       <article class="member-card">
@@ -16,7 +16,7 @@ intro: Direcao atual e mandatos anteriores.
         {% if membro.linkedin %}
           <p><a href="{{ membro.linkedin }}" target="_blank" rel="noopener noreferrer">LinkedIn</a></p>
         {% else %}
-          <p class="muted">LinkedIn indisponivel</p>
+          <p class="muted">LinkedIn indisponível</p>
         {% endif %}
       </article>
     {% endfor %}
@@ -24,7 +24,7 @@ intro: Direcao atual e mandatos anteriores.
 </section>
 
 <section style="margin-top: 2rem;">
-  <h2>Direcoes anteriores</h2>
+  <h2>Direções anteriores</h2>
   {% for bloco in site.data.direcao.anteriores %}
     <article class="card">
       <h3>Mandato {{ bloco.mandato }}</h3>

@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Publicacoes de Interoperabilidade
+title: Publicações de Interoperabilidade
 permalink: /pages/recursos/publicacoes-interoperabilidade/
-intro: Publicacoes e notas de referencia sobre interoperabilidade.
+intro: Publicações e notas de referência sobre interoperabilidade.
 ---
 
 <ul>
   <li>Guia de maturidade de interoperabilidade em contexto hospitalar.</li>
-  <li>Boas praticas para governance de dados clinicos.</li>
-  <li>Relatorio anual de adocao de standards HL7.</li>
+  <li>Boas práticas para governance de dados clínicos.</li>
+  <li>Relatório anual de adoção de standards HL7.</li>
 </ul>

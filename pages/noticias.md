@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Noticias
+title: Notícias
 permalink: /pages/noticias/
-intro: Novidades, eventos e atualizacoes da associacao.
+intro: Novidades, eventos e atualizações da associação.
 ---
 
 <div class="card-grid">
@@ -13,7 +13,7 @@ intro: Novidades, eventos e atualizacoes da associacao.
       {% if post.excerpt %}
         <p>{{ post.excerpt | strip_html | truncate: 170 }}</p>
       {% endif %}
-      <a href="{{ post.url | relative_url }}">Ler noticia</a>
+      <a href="{{ post.url | relative_url }}">Ler notícia</a>
     </article>
   {% endfor %}
 </div>

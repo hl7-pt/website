@@ -2,7 +2,7 @@
 layout: page
 title: Anuidades
 permalink: /pages/anuidades/
-intro: Valores de anuidades por categoria de socio.
+intro: Valores de anuidades por categoria de sócio.
 ---
 
 <div class="table-wrap">
@@ -11,8 +11,8 @@ intro: Valores de anuidades por categoria de socio.
       <tr>
         <th data-sort="text">Categoria</th>
         <th data-sort="number">Valor anual (EUR)</th>
-        <th data-sort="text">Periodo</th>
-        <th data-sort="text">Observacoes</th>
+        <th data-sort="text">Período</th>
+        <th data-sort="text">Observações</th>
       </tr>
     </thead>
     <tbody>
@@ -27,3 +27,5 @@ intro: Valores de anuidades por categoria de socio.
     </tbody>
   </table>
 </div>
+
+<p class="muted">Valores alinhados com a grelha de anuidades da página antiga.</p>

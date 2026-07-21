@@ -13,7 +13,7 @@ intro: Ferramentas e ligações úteis para implementação e teste de standards
   <p><a href="https://fhir.hl7.pt" target="_blank" rel="noopener noreferrer">Site FHIR (production)</a></p>
   <p>O FHIR (Fast Healthcare Interoperability Resources) combina elementos das versões HL7 v2, HL7 v3 e CDA com padrões web modernos e foco em facilidade de implementação.</p>
 
-  <p><a href="https://build.fhir.org/" target="_blank" rel="noopener noreferrer">Site FHIR (dev)</a></p>
+  <p><a href="https:///" target="_blank" rel="noopener noreferrer">Site FHIR (dev)</a></p>
   <p>Build de integração e evolução contínua do FHIR (desenvolvimento).</p>
 
   <p><a href="https://chat.fhir.org/login/" target="_blank" rel="noopener noreferrer">Chat FHIR (zulip)</a></p>

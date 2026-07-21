@@ -19,16 +19,17 @@ title: Intro
 
 <section class="container" style="margin-top: 2rem;">
   <div class="cta-grid">
-    <article class="card">
-      <h2>Subscreva a newsletter</h2>
-      <p>Receba notícias, webinars, eventos e publicações de interoperabilidade diretamente no seu email.</p>
-      <a class="btn" href="#" aria-label="Subscrever newsletter HL7 Portugal">Subscrever newsletter</a>
-    </article>
-    <article class="card">
-      <h2>Entrar no grupo WhatsApp</h2>
-      <p>Junte-se ao grupo da comunidade para acompanhar novidades, formação e discussões técnicas.</p>
-      <a class="btn" href="#" aria-label="Entrar no grupo WhatsApp HL7 Portugal">Entrar no WhatsApp</a>
-    </article>
+    {% for cta in site.data.index_ctas %}
+      <article class="card">
+        <h2>{{ cta.titulo }}</h2>
+        <p>{{ cta.texto }}</p>
+        {% if cta.externo %}
+          <a class="btn" href="{{ cta.link }}" target="_blank" rel="noopener noreferrer" aria-label="{{ cta.botao }}">{{ cta.botao }}</a>
+        {% else %}
+          <a class="btn" href="{{ cta.link | relative_url }}" aria-label="{{ cta.botao }}">{{ cta.botao }}</a>
+        {% endif %}
+      </article>
+    {% endfor %}
   </div>
 </section>
 
@@ -56,7 +57,7 @@ title: Intro
 
 <section class="container" style="margin-top: 2rem;">
   <h2>Entidades associadas que trabalham connosco</h2>
-  <p class="muted">Coloque os logotipos na pasta <strong>assets/images/socios/</strong> e ajuste a lista em <strong>_data/socios.yml</strong>.</p>
+  
   <div class="logo-grid" aria-label="Logotipos de sócios">
     {% for socio in site.data.socios %}
       <article class="logo-card">

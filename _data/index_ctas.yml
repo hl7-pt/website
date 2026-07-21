@@ -1,0 +1,17 @@
+- titulo: Subscreva a newsletter
+  texto: Receba notícias, webinars, eventos e publicações de interoperabilidade diretamente no seu email.
+  botao: Subscrever newsletter
+  link: https://hl7.us21.list-manage.com/subscribe?u=e28bd3d319c9a7ee887d6a8e7&id=5b73a4b591
+  externo: true
+
+- titulo: Entrar no grupo WhatsApp
+  texto: Junte-se ao grupo da comunidade para acompanhar novidades, formação e discussões técnicas.
+  botao: Entrar no WhatsApp
+  link: https://chat.whatsapp.com/BWXVMwO1Z2pBI2gXAzH4S5
+  externo: true
+
+- titulo: Inscrição de associado
+  texto: Preencha o formulário de inscrição para iniciar o processo de adesão ao HL7 Portugal.
+  botao: Abrir formulário de inscrição
+  link: https://docs.google.com/forms/d/e/1FAIpQLSffs6yDYJ0iy4YSDMzQJH_QMW4KedFqUcM9wPFtAasdXdzXFw/viewform?usp=dialog
+  externo: true

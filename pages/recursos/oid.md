@@ -2,7 +2,15 @@
 layout: page
 title: OID
 permalink: /pages/recursos/oid/
+description: >-
+  Registos OID (Object Identifiers) relevantes para Portugal: âmbito,
+  estrutura hierárquica e processo de atribuição pelo HL7 Portugal.
 intro: Resumo dos objetivos dos OID e registos relevantes para Portugal.
+faq:
+  - question: Preciso de um OID?
+    answer: Se a entidade atua na área da saúde e precisa de identificar objetos de forma única para interoperabilidade regional, nacional ou internacional, deve solicitar um OID.
+  - question: Como pedir um OID ao HL7 Portugal?
+    answer: Os pedidos devem ser enviados para info@hl7.pt e podem ser gratuitos para catálogo geral de interesse público na saúde e para entidades associadas HL7 Portugal.
 ---
 
 <article class="card">

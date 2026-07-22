@@ -1,0 +1,28 @@
+# HL7 Portugal
+
+> Associação portuguesa dedicada à interoperabilidade em saúde com padrões abertos HL7 e FHIR. Este ficheiro resume as páginas essenciais para consulta por agentes de IA.
+
+## Páginas principais
+
+- [Início](https://hl7-pt.github.io/) - Visão geral da associação, missão, destaques e atalhos.
+- [O que fazemos](https://hl7-pt.github.io/pages/o-que-fazemos/) - Áreas de atuação do HL7 Portugal na comunidade de interoperabilidade.
+- [Contactos](https://hl7-pt.github.io/pages/contactos/) - Canais oficiais de contacto para pedidos institucionais e técnicos.
+
+## Formação e participação
+
+- [Formação](https://hl7-pt.github.io/pages/formacao/) - Oferta formativa em HL7/FHIR e processo de inscrição.
+- [Anuidades](https://hl7-pt.github.io/pages/anuidades/) - Tabela oficial de quotas anuais por tipo de membro.
+- [Vantagens e testemunhos](https://hl7-pt.github.io/pages/vantagens-testemunhos/) - Benefícios da adesão e perspetiva de associados.
+
+## Recursos técnicos
+
+- [Recursos](https://hl7-pt.github.io/pages/recursos/) - Índice de recursos técnicos e materiais de apoio.
+- [OID](https://hl7-pt.github.io/pages/recursos/oid/) - Registo oficial de OIDs do HL7 Portugal, FAQ e processo de pedido.
+- [Especificações técnicas](https://hl7-pt.github.io/pages/recursos/especificacoes-tecnicas/) - Referências para normas e especificações de interoperabilidade.
+- [Apresentações](https://hl7-pt.github.io/pages/recursos/apresentacoes/) - Materiais de sessões e conteúdos partilhados pela comunidade.
+- [Publicações de interoperabilidade](https://hl7-pt.github.io/pages/recursos/publicacoes-interoperabilidade/) - Artigos e documentação relevante para interoperabilidade em saúde.
+
+## Notícias
+
+- [Notícias](https://hl7-pt.github.io/pages/noticias/) - Lista cronológica de notícias, eventos e atualizações da associação.
+- [Feed Atom](https://hl7-pt.github.io/feed.xml) - Feed estruturado para consumo automático de notícias.

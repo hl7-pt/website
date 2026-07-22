@@ -2,6 +2,9 @@
 layout: page
 title: Vantagens e Testemunhos
 permalink: /pages/vantagens-testemunhos/
+description: >-
+  Descubra as vantagens de ser sócio do HL7 Portugal: acesso a formação,
+  influência em normas, rede de contactos e testemunhos de membros.
 intro: Benefícios de adesão ao HL7 Portugal e testemunhos da comunidade.
 ---
 

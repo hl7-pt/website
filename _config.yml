@@ -1,10 +1,24 @@
 title: HL7 Portugal
 email: geral@hl7.pt
-description: Site institucional da associação HL7 Portugal
+description: >-
+  HL7 Portugal é a associação portuguesa dedicada à interoperabilidade em saúde
+  com padrões abertos HL7, FHIR e afins. Formação, recursos e comunidade.
 baseurl: ""
-url: ""
+url: "https://hl7-pt.github.io"
+logo: /assets/images/og-default.svg
 lang: pt-PT
 timezone: Europe/Lisbon
+
+twitter:
+  username: hl7portugal
+
+author:
+  name: HL7 Portugal
+
+social:
+  name: HL7 Portugal
+  links:
+    - https://www.linkedin.com/company/hl7-portugal
 
 markdown: kramdown
 highlighter: rouge

@@ -2,7 +2,17 @@
 layout: page
 title: Formação
 permalink: /pages/formacao/
+description: >-
+  Oferta formativa em HL7 e FHIR para profissionais de saúde e TI: cursos
+  em português, certificações internacionais e descontos para membros HL7 Portugal.
 intro: Formação e certificação em interoperabilidade HL7.
+faq:
+  - question: Existem cursos HL7/FHIR em português?
+    answer: Sim. O HL7 Portugal divulga formação em português, incluindo o curso HL7 FHIR em Português, além de opções internacionais.
+  - question: Como me inscrevo numa formação do HL7 International?
+    answer: O registo é feito no site hl7.org, seguido da seleção da formação e da inscrição no evento escolhido.
+  - question: Associados HL7 Portugal têm benefícios em formação?
+    answer: Sim. Associados HL7 Portugal podem beneficiar de condições especiais e descontos em formações elegíveis.
 ---
 
 <article class="card">
@@ -33,4 +43,17 @@ intro: Formação e certificação em interoperabilidade HL7.
   <p><a href="http://www.hl7.org/certification/index.cfm?ref=nav" target="_blank" rel="noopener noreferrer">Página HL7 International para certificação</a></p>
   <p>Existem hoje (Dezembro de 2021) 22 pessoas certificadas em HL7 versão 2, duas delas com a sua certificação obtida em 2021.</p>
   <p>Para visualizar todas as pessoas certificadas em HL7 em Portugal, clique <a href="http://www.hl7.org/implement/certificationdirectory.cfm?country_code_id=168&sortBy=CertificationDate&sortDirection=desc&offset=1" target="_blank" rel="noopener noreferrer">aqui</a>.</p>
+</article>
+
+<article class="card" style="margin-top: 2rem;">
+  <h2>Perguntas frequentes</h2>
+
+  <h3>Existem cursos HL7/FHIR em português?</h3>
+  <p>Sim. O HL7 Portugal divulga formação em português, incluindo o curso HL7 FHIR em Português, além de opções internacionais.</p>
+
+  <h3>Como me inscrevo numa formação do HL7 International?</h3>
+  <p>O registo é feito no site hl7.org, seguido da seleção da formação e da inscrição no evento escolhido.</p>
+
+  <h3>Associados HL7 Portugal têm benefícios em formação?</h3>
+  <p>Sim. Associados HL7 Portugal podem beneficiar de condições especiais e descontos em formações elegíveis.</p>
 </article>

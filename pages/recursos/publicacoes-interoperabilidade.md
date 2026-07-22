@@ -2,6 +2,9 @@
 layout: page
 title: Publicações de Interoperabilidade
 permalink: /pages/recursos/publicacoes-interoperabilidade/
+description: >-
+  Artigos, relatórios e notas de referência sobre interoperabilidade em saúde
+  publicados ou recomendados pelo HL7 Portugal.
 intro: Publicações e notas de referência sobre interoperabilidade.
 ---
 

@@ -2,6 +2,9 @@
 layout: page
 title: Notícias
 permalink: /pages/noticias/
+description: >-
+  Últimas notícias, eventos, webinars e atualizações do HL7 Portugal:
+  novidades sobre interoperabilidade em saúde e padrões HL7 e FHIR.
 intro: Novidades, eventos e atualizações da associação.
 ---
 

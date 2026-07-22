@@ -2,6 +2,9 @@
 layout: page
 title: Ferramentas
 permalink: /pages/recursos/ferramentas/
+description: >-
+  Ferramentas recomendadas para implementação, validação e teste de
+  standards HL7 e FHIR, incluindo validadores, editores e repositórios.
 intro: Ferramentas e ligações úteis para implementação e teste de standards HL7.
 ---
 

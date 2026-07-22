@@ -9,5 +9,25 @@ layout: default
 </section>
 
 <section class="container page-content">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Início",
+          "item": "https://hl7-pt.github.io/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": {{ page.title | jsonify }},
+          "item": "https://hl7-pt.github.io{{ page.url }}"
+        }
+      ]
+    }
+    </script>
     {{ content }}
 </section>

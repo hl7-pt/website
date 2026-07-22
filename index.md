@@ -1,7 +1,26 @@
 ---
 layout: default
-title: Intro
+title: Início
+description: >-
+  HL7 Portugal é a associação que apoia a comunidade de interoperabilidade em
+  saúde em Portugal, promovendo os padrões HL7 e FHIR através de formação,
+  eventos e recursos técnicos.
 ---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "HL7 Portugal",
+  "url": "https://hl7-pt.github.io",
+  "logo": "https://hl7-pt.github.io/assets/images/og-default.svg",
+  "description": "Associação portuguesa dedicada à interoperabilidade em saúde com padrões abertos HL7 e FHIR.",
+  "email": "geral@hl7.pt",
+  "sameAs": [
+    "https://www.linkedin.com/company/hl7-portugal"
+  ]
+}
+</script>
 
 <section class="container hero">
   <h1>HL7 Portugal</h1>

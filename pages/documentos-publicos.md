@@ -2,6 +2,9 @@
 layout: page
 title: Documentos públicos
 permalink: /pages/documentos-publicos/
+description: >-
+  Documentos públicos do HL7 Portugal: atas de assembleia, relatórios de
+  atividade, estatutos e demais materiais produzidos pela associação.
 intro: Documentos e materiais públicos produzidos ao longo da atividade da associação.
 ---
 

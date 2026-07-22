@@ -2,6 +2,9 @@
 layout: page
 title: Anuidades
 permalink: /pages/anuidades/
+description: >-
+  Consulte os valores de quota anual por tipo de membro do HL7 Portugal:
+  individuais, instituições de saúde, empresas e organizações académicas.
 intro: Valores de quota anual por tipo de participação na associação.
 ---
 

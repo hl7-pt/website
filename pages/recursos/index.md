@@ -2,6 +2,9 @@
 layout: page
 title: Recursos
 permalink: /pages/recursos/
+description: >-
+  Recursos técnicos do HL7 Portugal: apresentações, especificações, ferramentas
+  de teste, registos OID, publicações de interoperabilidade e guias FHIR.
 intro: Área de recursos técnicos e documentais.
 ---
 

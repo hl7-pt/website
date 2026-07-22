@@ -2,6 +2,9 @@
 layout: page
 title: Direção
 permalink: /pages/direcao/
+description: >-
+  Conheça a composição atual e histórica da Direção do HL7 Portugal: membros
+  da Direção, Conselho Fiscal e Mesa da Assembleia Geral.
 intro: "Composição da direção em três versões: nova, antiga e sample menor."
 ---
 

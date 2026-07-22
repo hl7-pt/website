@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img"
+    aria-labelledby="og-title og-desc">
+    <title id="og-title">HL7 Portugal</title>
+    <desc id="og-desc">Interoperabilidade em saúde com padrões abertos</desc>
+    <rect width="1200" height="630" fill="#ffffff"/>
+    <rect x="0" y="0" width="1200" height="12" fill="#c8102e"/>
+    <rect x="0" y="618" width="1200" height="12" fill="#c8102e"/>
+    <text x="600" y="270" font-family="Arial, Helvetica, sans-serif" font-size="96" font-weight="bold"
+          text-anchor="middle" fill="#c8102e">HL7 Portugal</text>
+    <text x="600" y="370" font-family="Arial, Helvetica, sans-serif" font-size="36"
+          text-anchor="middle" fill="#333333">Interoperabilidade em saúde com padrões abertos</text>
+    <text x="600" y="460" font-family="Arial, Helvetica, sans-serif" font-size="28"
+          text-anchor="middle" fill="#888888">hl7-pt.github.io</text>
+</svg>

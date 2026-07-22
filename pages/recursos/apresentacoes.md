@@ -2,6 +2,9 @@
 layout: page
 title: Apresentações
 permalink: /pages/recursos/apresentacoes/
+description: >-
+  Slides, gravações de webinars e materiais de eventos organizados
+  pelo HL7 Portugal sobre interoperabilidade em saúde.
 intro: Apresentações, webinars e materiais de eventos da HL7 Portugal.
 ---
 

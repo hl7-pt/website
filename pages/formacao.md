@@ -2,6 +2,9 @@
 layout: page
 title: Formação
 permalink: /pages/formacao/
+description: >-
+  Oferta formativa em HL7 e FHIR para profissionais de saúde e TI: cursos
+  em português, certificações internacionais e descontos para membros HL7 Portugal.
 intro: Formação e certificação em interoperabilidade HL7.
 ---
 

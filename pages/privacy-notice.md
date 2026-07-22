@@ -2,6 +2,9 @@
 layout: page
 title: Privacy Notice
 permalink: /pages/privacy-notice/
+description: >-
+  Política de privacidade e tratamento de dados pessoais do HL7 Portugal,
+  em conformidade com o RGPD e a legislação portuguesa aplicável.
 intro: "Informação sobre privacidade e tratamento de dados."
 ---
 

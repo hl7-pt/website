@@ -2,6 +2,9 @@
 layout: page
 title: Especificações Técnicas
 permalink: /pages/recursos/especificacoes-tecnicas/
+description: >-
+  Guias de implementação HL7, especificações técnicas e processo de publicação
+  de normas pelo HL7 Portugal.
 intro: Guias de implementação e processo de publicação técnica HL7 Portugal.
 ---
 

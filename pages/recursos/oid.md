@@ -2,6 +2,9 @@
 layout: page
 title: OID
 permalink: /pages/recursos/oid/
+description: >-
+  Registos OID (Object Identifiers) relevantes para Portugal: âmbito,
+  estrutura hierárquica e processo de atribuição pelo HL7 Portugal.
 intro: Resumo dos objetivos dos OID e registos relevantes para Portugal.
 ---
 

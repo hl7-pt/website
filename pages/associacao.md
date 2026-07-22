@@ -2,6 +2,9 @@
 layout: page
 title: Associação
 permalink: /pages/associacao/
+description: >-
+  Informações sobre a adesão ao HL7 Portugal, documentos reservados a sócios
+  e acesso à área de membros da associação.
 intro: Informações de adesão e acesso a documentos para sócios.
 ---
 
